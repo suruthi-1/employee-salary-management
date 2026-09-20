@@ -25,6 +25,15 @@ A Python Tkinter application for calculating and displaying employee salary deta
 
 - Python 3.14
 - Tkinter
+- ## Screenshots
+
+### Employee Dashboard
+
+![Employee Dashboard](Screenshot%202026-09-20%20140915.png)
+
+### Salary Calculation Result
+
+![Salary Result](Screenshot%202026-09-20%20140850.png)
 
 ## How to Run
 
